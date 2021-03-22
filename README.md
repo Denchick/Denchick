@@ -2,7 +2,9 @@
 - 🇷🇺 I live in Yekaterinburg, Russia
 - 👀 I’m interested in back-end development
 - ✨ I know a lot enough about front-end too
-- 🌱 I’m currently learning German, touch typing and vim  
+- 🌱 I’m currently learning German, touch typing and vim
+- ✉️ You can shoot me an email at obkashlim.voprosik@gmail.com.
+- 📄 My CV: [Denis_Volkov.pdf](https://github.com/Denchick/Denchick/files/6185212/Denis_Volkov.pdf)
 
 ## 🛠️ My main buzzwords
 

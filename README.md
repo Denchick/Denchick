@@ -1,14 +1,13 @@
 # Hi there 👋  I'm Denis
 - 🇷🇺 I live in Yekaterinburg, Russia
 - 👀 I’m interested in back-end development
-- ✨ I know a lot enough about front-end too
+- ✨ I know a bit about front-end too
 - 🌱 I’m currently learning German, touch typing and vim
 - ✉️ You can shoot me an email at obkashlim.voprosik@gmail.com.
-- 📄 My CV: [Denis_Volkov.pdf](https://github.com/Denchick/Denchick/files/6185212/Denis_Volkov.pdf)
 
 ## 🛠️ My main buzzwords
 
-Git, C#, .NET, Python, Django, Golang, PostgreSQL, HTML, CSS, Javascript, Typescript, React, Docker, TeamCity, Swagger
+Python, Django, Golang, PostgreSQL, Git, C#, .NET, HTML, CSS, Javascript, Typescript, React, Docker, TeamCity, Swagger
 
 ## 🤝 Contact with me
 

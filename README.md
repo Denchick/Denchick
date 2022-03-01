@@ -7,7 +7,8 @@
 
 ## 🛠️ My main buzzwords
 
-Python, Django, Golang, PostgreSQL, Git, C#, .NET, HTML, CSS, Javascript, Typescript, React, Docker, TeamCity, Swagger
+- Languages: Python, Go, Javascript, Typescript, C#, Java.
+- Technologies: PostgreSQL, Docker, Cassandra, Terraform, Teamcity, Selenium, Octopus, Swagger.
 
 ## 🤝 Contact with me
 

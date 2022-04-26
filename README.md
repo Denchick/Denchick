@@ -1,8 +1,6 @@
 # Hi there 👋  I'm Denis
 - 🇷🇺 I live in Yekaterinburg, Russia
 - 👀 I’m interested in back-end development
-- ✨ I know a bit about front-end too
-- 🌱 I’m currently learning German, touch typing and vim
 - ✉️ You can shoot me an email at obkashlim.voprosik@gmail.com.
 
 ## 🛠️ My main buzzwords

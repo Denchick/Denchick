@@ -1,5 +1,5 @@
 # Hi there 👋  I'm Denis
-- 🇷🇺 I live in Yekaterinburg, Russia
+- 🇰🇿 I live in Almaty, Kazakhstan
 - 👀 I’m interested in back-end development
 - 🦫 Most of the time I'm writing on Go and Python.
 - ✉️ You can shoot me an email at obkashlim.voprosik@gmail.com.
